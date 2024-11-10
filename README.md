@@ -1,14 +1,8 @@
 <p align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_get_next_line.png">
-</p>
-
-<p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
-	<img src="https://img.shields.io/badge/evaluated-18%20%2F%2012%20%2F%202022-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/badge/score-125%20%2F%20100-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/github/languages/top/jotavare/get_next_line?color=%2312bab9&style=flat-square"/>
-	<img src="https://img.shields.io/github/last-commit/jotavare/get_next_line?color=%2312bab9&style=flat-square"/>
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://www.linkedin.com/in/yasir-arslan-6823a229b/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
@@ -18,20 +12,19 @@
 	<a href="#mandatory">Mandatory</a> •
 	<a href="#bonus">Bonus</a> •
 	<a href="#norminette">Norminette</a> •
-	<a href="#contributing">Contributing</a> •
-	<a href="#license">License</a>
+	<a href="#contributing">Contributing</a>
 </p>
 
 ## ABOUT
 This project taught me how to read from a file descriptor and use static variables. This function retrieves a single line from a specified file descriptor. When called in a loop, get_next_line returns all the contents of the file, one line at a time until the end of the file is reached. Additionally, this function can be compiled with any buffer size specified.
 
-- [Subject](https://github.com/jotavare/get_next_line/blob/master/subject/en_subject_get_next_line.pdf) `PDF`
+- [Subject](https://github.com/MepCity/42_get_next_line/tree/main/subject) `PDF`
 - [References](https://github.com/jotavare/42-resources#01-get_next_line) `GitHub`
 
 ## HOW TO USE
 #### 1º - Clone the repository
 ```git
-git clone git@github.com:jotavare/get_next_line.git
+git clone https://github.com/MepCity/42_get_next_line.git
 ```
 
 #### 2º - Enter the project folder
@@ -96,6 +89,3 @@ cd get_next_line/get_next_line
 
 If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
 
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/get_next_line/blob/master/LICENSE) file.
