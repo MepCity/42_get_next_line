@@ -3,7 +3,6 @@
 	<img src="https://img.shields.io/badge/score-125%20%2F%20100-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/github/languages/top/jotavare/get_next_line?color=%2312bab9&style=flat-square"/>
 	<a href='https://www.linkedin.com/in/yasir-arslan-6823a229b/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
 <p align="center">
@@ -29,7 +28,7 @@ git clone https://github.com/MepCity/42_get_next_line.git
 
 #### 2º - Enter the project folder
 ```bash
-cd get_next_line/get_next_line
+cd 42_get_next_line/get_next_line
 ```
 
 #### 3º - Compile the mandatory or bonus files
